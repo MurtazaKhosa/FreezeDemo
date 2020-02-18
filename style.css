@@ -1198,7 +1198,7 @@ div p {
     border: 2px solid #cbb5bc;
     color: #a5838e;
     display: block;
-    font-family: lato-bold-webfont;
+    font-family: sans-serif;
     font-size: 16px;
     font-weight: normal;
     height: 36px;
@@ -1213,7 +1213,7 @@ div p {
     border: 2px solid #cbb5bc;
     color: #a5838e;
     display: block;
-    font-family: lato-bold-webfont;
+    font-family: fantasy;
     font-size: 16px;
     font-weight: normal;
     height: 36px;
@@ -1233,7 +1233,7 @@ div p {
 }
 #body div.blog .sidebar h1, #body div.singlepost .sidebar h1 {
     color: #CB3362;
-    font-family: magra-bold-webfont;
+    font-family: fantasy;
     font-size: 30px;
     font-weight: normal;
     line-height: 30px;
@@ -1251,7 +1251,7 @@ div p {
 
 #body div.blog .sidebar h2, #body div.singlepost .sidebar h2 {
     color: #CB3362;
-    font-family: lato-regular-webfont;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: normal;
     line-height: 24px;
@@ -1263,7 +1263,7 @@ div p {
 #body div.blog .sidebar span, #body div.singlepost .sidebar span {
     color: #7A6666;
     display: block;
-    font-family: roboto-regular-webfont;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     font-weight: normal;
     line-height: 24px;
@@ -1275,7 +1275,7 @@ div p {
 #body div.blog .sidebar p, #body div.singlepost .sidebar p {
     color: #7A6666;
     display: block;
-    font-family: roboto-regular-webfont;
+    font-family: sans-serif;
     font-size: 14px;
     font-weight: normal;
     line-height: 24px;
@@ -1289,6 +1289,300 @@ div p {
     border: 2px solid #d3c2c7;
     color: #a5838e;
     display: block;
+    font-family: fantasy;
+    font-size: 16px;
+    font-weight: normal;
+    height: 36px;
+    line-height: 36px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 156px;
+}
+
+#body {
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+#body div.header {
+    background-color: #c8c10d;
+    margin: 0 auto;
+    max-width: none;
+    overflow: hidden;
+    padding: 0;
+}
+#body div.header div {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0;
+}
+#body div.header div h1 {
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    padding: 28px 0 23px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#body div.singlepost {
+    margin: 0 auto;
+    max-width: 960px;
+    overflow: hidden;
+    padding: 98px 0 99px;
+}
+#body div.singlepost .featured {
+    float: left;
+    margin: 0 10px;
+    padding: 0;
+    width: 620px;
+}
+#body div.singlepost .featured img {
+    display: block;
+    margin: 0;
+    padding: 1px 0 0 30px;
+    width: auto;
+}
+#body div.singlepost .featured h1 {
+    color: #CB3362;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 40px 0 4px 30px;
+    text-align: left;
+    text-transform: uppercase;
+}
+#body div.singlepost .featured span {
+    color: #7A6666;
+    display: block;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 23px 30px;
+    text-align: left;
+    text-transform: none;
+}
+#body div.singlepost .featured p {
+    color: #7A6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 24px 30px;
+    text-align: left;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+#body div.singlepost .featured p {
+    color: #7A6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 24px 30px;
+    text-align: left;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured p a {
+    color: #7a6666;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.singlepost .featured a.load {
+    border: 2px solid #CBB5BC;
+    color: #A5838E;
+    display: block;
+    font-family: fantasy;
+    font-size: 16px;
+    font-weight: normal;
+    height: 36px;
+    line-height: 36px;
+    margin: 63px auto 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 156px;
+}
+#body div.singlepost .sidebar {
+    background-color: #EFEDEE;
+    float: left;
+    margin: 0;
+    padding: 0 0 71px;
+    width: 280px;
+}
+#body div.singlepost .sidebar h1 {
+    color: #CB3362;
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    padding: 42px 0 29px;
+    text-align: center;
+    text-transform: capitalize;
+}
+#body div.singlepost .sidebar img {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: auto;
+}
+#body div.singlepost .sidebar h2 {
+    color: #CB3362;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 34px 0 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#body div.singlepost .sidebar span {
+    color: #7A6666;
+    display: block;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 24px;
+    text-align: center;
+    text-transform: none;
+}
+#body div.singlepost .sidebar p {
+    color: #7A6666;
+    display: block;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0 auto;
+    padding: 0 0 64px;
+    text-align: center;
+    text-transform: none;
+    width: 200px;
+}
+a.more, #body div.singlepost .sidebar a.more {
+    border: 2px solid #d3c2c7;
+    color: #a5838e;
+    display: block;
     font-family: lato-bold-webfont;
     font-size: 16px;
     font-weight: normal;
@@ -1299,4 +1593,253 @@ div p {
     text-align: center;
     text-transform: uppercase;
     width: 156px;
+}
+#body {
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+#body div.header {
+    background-color: #c8c10d;
+    margin: 0 auto;
+    max-width: none;
+    overflow: hidden;
+    padding: 0;
+}
+#body div.header div {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0;
+}
+#body div.header div h1 {
+    color: #FFFFFF;
+    font-family: lato-regular-webfont;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    padding: 28px 0 23px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#body.contact div.body {
+    background: url(../images/map.jpg) no-repeat center top #b5aaad;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    width: 100%;
+}
+
+#body.contact div.body div {
+    margin: 0 auto;
+    max-width: 960px;
+    overflow: hidden;
+    padding: 39px 0 0;
+}
+
+#body.contact div.body div div {
+    background: url(../images/bg-transparent.png) repeat;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 30px 0 35px 133px;
+    width: 747px;
+}
+#body.contact div.body div div img {
+    float: left;
+    left: auto;
+    margin: 0 38px 0 0;
+    padding: 0;
+    position: relative;
+    width: auto;
+}
+#body.contact div.body div div h1 {
+    color: #CB3362;
+    float: left;
+    font-family: lato-regular-webfont;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 15px 0 4px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 510px;
+}
+#body.contact div.body div div p {
+    color: #7a6666;
+    float: left;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 510px;
+}
+#body.contact div.body div div p a {
+    color: #7a6666;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+#body div.footer {
+    margin: 0 auto;
+    max-width: 960px;
+    overflow: hidden;
+    padding: 40px 0 110px;
+}
+#body div.footer .contact {
+    float: left;
+    margin: 0 10px 0 0;
+    max-width: none;
+    padding: 0 0 61px 40px;
+    width: 590px;
+}
+#body div.footer .contact h1 {
+    color: #CB3362;
+    float: none;
+    font-family: lato-regular-webfont;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 43px;
+    text-align: left;
+    text-transform: uppercase;
+    width: auto;
+}
+#body div.footer .contact form {
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 560px;
+}
+#body div.footer .contact form input {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 38px;
+    line-height: 38px;
+    margin: 0 0 8px;
+    padding: 0 0 0 10px;
+    text-align: left;
+    width: 548px;
+}
+#body div.footer .contact form input {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 38px;
+    line-height: 38px;
+    margin: 0 0 8px;
+    padding: 0 0 0 10px;
+    text-align: left;
+    width: 548px;
+}
+#body div.footer .contact form input {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 38px;
+    line-height: 38px;
+    margin: 0 0 8px;
+    padding: 0 0 0 10px;
+    text-align: left;
+    width: 548px;
+}
+#body div.footer .contact form textarea {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 270px;
+    line-height: 24px;
+    margin: 0 0 9px;
+    overflow: auto;
+    padding: 7px 0 0 10px;
+    resize: none;
+    text-align: left;
+    width: 548px;
+}
+#body div.footer .contact form input#submit {
+    background: none;
+    border: 2px solid #c5abb4;
+    color: #a5838e;
+    cursor: pointer;
+    display: block;
+    font-family: lato-bold-webfont;
+    font-size: 16px;
+    font-weight: normal;
+    height: 40px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 141px;
+}
+#body div.footer .section {
+    background-color: #EFEDEE;
+    float: left;
+    margin: 0;
+    max-width: none;
+    padding: 0 0 35px;
+    width: 280px;
+}
+#body div.footer .section h1 {
+    color: #CB3362;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0 auto;
+    padding: 24px 0 27px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 202px;
+}
+#body div.footer .section p {
+    color: #7A6666;
+    display: block;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 202px;
+}
+#body div.footer div p a {
+    color: #7a6666;
+    font-family: roboto-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
 }
